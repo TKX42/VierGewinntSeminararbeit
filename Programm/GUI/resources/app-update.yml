@@ -1,0 +1,4 @@
+owner: tkx42
+repo: connect4
+provider: github
+updaterCacheDirName: electron-react-boilerplate-updater
